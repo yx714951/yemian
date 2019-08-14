@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size:calc(100*100vw/750);
+}
+body{
+    font-size: 0.24rem;
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0.7rem;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+}
+.img1{
+    width: 0.6rem;
+    height: 0.6rem;
+    padding: 0.2rem 0.2rem;
+}
+.top{
+    position: absolute;
+    left: 0.5rem;
+    top: 0.1rem;
+}
+.top img{
+    position: relative;
+    left: 0.53rem;
+    top: 0.07rem;
+    width: .32rem;
+    height: .32rem;
+}
+.top input{
+    background-color: #F3F3F3;
+    width: 5.56rem;
+    height: 0.64rem;
+    border-radius: 1rem;
+    border: 0;
+    padding: 0 0.6rem;
+    box-sizing: border-box;
+}
+.top input:focus{
+    outline: none;
+}
+.mytext{
+    font-size: .28rem;
+    font-weight: bold;
+    color: #f46;
+    position: absolute;
+    right: 0.3rem;
+    top: 0.2rem;
+}
+.img2{
+    width: 100%;
+    height: 100%;
+}
+.img3{
+    width: 1.3rem;
+    height: 1.3rem;
+    position: relative;
+    left: 0.5rem;
+}
+.img4{
+    width: 1.3rem;
+    height: 1.3rem;
+    position: relative;
+    left: 0.8rem;
+}
+.img5{
+    width: 1.3rem;
+    height: 1.3rem;
+    position: relative;
+    left: 1.1rem;
+}
+.img6{
+    width: 1.3rem;
+    height: 1.3rem;
+    position: relative;
+    left: 1.5rem;
+}
+.hot{
+    width: 1rem;
+    font-size: 0.23rem;
+    font-weight: bold;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    position: relative;
+    padding: 0.1rem 0.1rem;
+}
+.hot-warp-img{
+    width: 1rem;
+    height: 1rem;
+}
+.mydiv1{
+    height: 2.4rem;
+}
+.box1-img1{
+    width: 2.1rem;
+    height: 2.1rem;
+    position: relative;
+    left: .2rem;
+}
+.box1-img2{
+    width: 2.1rem;
+    height: 2.1rem;
+    position: relative;
+    left: .4rem;
+}
+.box1-img3{
+    width: 2.1rem;
+    height: 2.1rem;
+    position: relative;
+    left: .6rem;
+}
+.div1{
+    height: .9rem;
+    background-color: #F3F2F2;
+    display: flex;
+    padding: 0 .2rem;
+    line-height: .9rem;
+}
+.div1-left{
+    font-size: .32rem;
+}
+.div1-right{
+    font-size: .28rem;
+    position: relative;
+    left: 5.2rem;
+}
+.mydiv{
+    height: 18rem;
+}
+.box1{
+    width: 3.5rem;
+    height: 4.6rem;
+}
+.imgs1{
+    width: 3.5rem;
+    height: 3.5rem;
+}
+.box1-text p{
+    font-size: .28rem;
+}
+.box1-text span{
+    font-size: .28rem;
+    color: #FF4466;
+    font-weight: bold;
+}
+.box2{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 3.6rem;
+    top: -4.6rem;
+}
+.box3{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 0;
+    top: -4.3rem;
+}
+.box4{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 3.6rem;
+    top: -8.5rem;
+}
+.box5{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 0;
+    top: -8.3rem;
+}
+.box6{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 3.6rem;
+    top: -12.5rem;
+}
+.box7{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 0;
+    top: -12.3rem;
+}
+.box8{
+    width: 3.5rem;
+    height: 4.2rem;
+    position: relative;
+    left: 3.6rem;
+    top: -16.5rem;
+}
+.mydiv2{
+    height: 18rem;
+}
+.mydiv3{
+    height: 18rem;
+}
+.mydiv4{
+    height: 22rem;
+}
+
